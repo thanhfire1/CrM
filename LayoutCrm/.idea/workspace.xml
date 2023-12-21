@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5305e4ab-3ee3-44fe-84ff-061140b27da0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyber/src/main/java/com/example/baitapcyber/Controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyber/src/main/java/com/example/baitapcyber/Entity/DemoEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyber/src/main/java/com/example/baitapcyber/Entity/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyber/src/main/java/com/example/baitapcyber/Repository/EmployeesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyber/src/main/java/com/example/baitapcyber/config/DemoBeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyber/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyber/src/main/resources/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft/src/main/java/com/example/BaiTapCyberSoft/BaiTapCyberSoftApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft/src/main/java/com/example/BaiTapCyberSoft/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTapCyberSoft/src/test/java/com/example/BaiTapCyberSoft/BaiTapCyberSoftApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2Zo1AjSYWiojKsxIOmtjPxiLEw6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/cybersoft/LayoutCrm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5305e4ab-3ee3-44fe-84ff-061140b27da0" name="Changes" comment="" />
+      <created>1703073476867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703073476867</updated>
+      <workItem from="1703073477890" duration="171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
